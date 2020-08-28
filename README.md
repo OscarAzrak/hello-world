@@ -1,2 +1,2 @@
 # hello-world
-Tutorial
+Jag heter Oscar Azrak och läser Industriell Ekonomi från Öppen Ingång.
